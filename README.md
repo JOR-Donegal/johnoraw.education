@@ -1,7 +1,7 @@
 ---
 description: What this is all about
 ---
-![logo](jor-edu.jpg)
+<img src = "jor-edu.jpg" width="200" height="200">
 
 
 # Introduction
