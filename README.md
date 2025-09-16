@@ -1,6 +1,8 @@
 ---
 description: What this is all about
 ---
+[logo](jor-edu.jpg)
+
 
 # Introduction
 
