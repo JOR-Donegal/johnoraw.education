@@ -11,3 +11,7 @@ I have been writing course content since the last millenium (sad but true!). Cha
 After two years of experimentation with my own accounts, this is a new dedicated teaching account as of mid-2025.
 
 Enjoy!&#x20;
+
+## Table Of Contents
+
+1. Stuff
