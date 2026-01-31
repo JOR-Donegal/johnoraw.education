@@ -11,13 +11,47 @@
 
 
 # Modules
-## [Storage](https://github.com/JOR-Donegal/Storage26.git)
-## [Networking](https://jor-donegal.github.io/Networking26/)
+# [IaC](https://github.com/JOR-Donegal/IaC26.git) still in GITBOOK, needs a complete port 
+# [Storage](https://github.com/JOR-Donegal/Storage26.git)
+
+# [Networking](https://jor-donegal.github.io/Networking26/)
+[Introduction](https://jor-donegal.github.io/Networking26/)
+[Practical Work](https://jor-donegal.github.io/Networking26/PracticleWork/)
+[Writing Style](https://jor-donegal.github.io/Networking26/Writing%20style/)
+[About](https://jor-donegal.github.io/Networking26/about/)
+
+## Network Theory
+[Physical Network Theory](https://github.com/JOR-Donegal/pnt26.git)
+[Layered Models](https://github.com/JOR-Donegal/LayeredModels26.git)
+[Legacy Communications](https://jor-donegal.github.io/LegacyCommunications/)
+[Serial Communications](https://github.com/JOR-Donegal/SerialCommunications26.git)
+
+[Layer 1](https://jor-donegal.github.io/WiredL1/)
+[Wireless](https://johnoraw.gitbook.io/pnt/wireless-layer-1) still in GITBOOK, needs a complete port
+[ISM Bands](https://johnoraw.gitbook.io/pnt/ism-bands)
+
+
+
+
+## Network Practice
+[Lan Network Practice](https://johnoraw.gitbook.io/lnp/3.cli) still in GITBOOK, needs a complete port
+[Booting](https://johnoraw.gitbook.io/lnp/4.boot) still in GITBOOK, needs a complete port
+[AAA](https://johnoraw.gitbook.io/lnp/5.aaa) still in GITBOOK, needs a complete port
+
+
+
+
+
+[Ethernet Practice from 2025](https://github.com/JOR-Donegal/EthernetPractice.git)
+
+
+
+
+
+
+
 ## [HCT for MSc](https://github.com/JOR-Donegal/MSc-HCT26.git)
 ## [HCT for PGDip](https://github.com/JOR-Donegal/PGDip-HCT26.git)
-
-
-
 
 
 ## Storage Theory
