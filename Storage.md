@@ -1,5 +1,5 @@
 # Storage
-# [Storage](https://github.com/JOR-Donegal/Storage26.git)
+# [Storage](https://jor-donegal.github.io/Storage26/)
 
 
 ## Storage Theory
