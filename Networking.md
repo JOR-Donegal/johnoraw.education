@@ -42,6 +42,19 @@
 
 [IPv4 Subnetting](https://johnoraw.gitbook.io/routing-theory/ipv4-addressing)
 
+[IPv6 Subnetting](https://johnoraw.gitbook.io/routing-theory/ipv6-addressing)
+
+### Week 6
+[Layer 4](https://johnoraw.gitbook.io/routing-theory/layer-4)
+
+### Week 7
+[RIP](https://johnoraw.gitbook.io/routing-theory/routing-information-protocol-rip)
+
+[OSPF](https://johnoraw.gitbook.io/routing-theory/ospf)
+
+### Week 8
+[BGP](https://johnoraw.gitbook.io/routing-theory/bgp)
+
 
 
 ## Network Practice
@@ -70,4 +83,20 @@
 [LAN Routing](https://johnoraw.gitbook.io/routing-practice/lan-routing)
 
 [Router on a stick](https://johnoraw.gitbook.io/routing-practice/router-on-a-stick)
+
+### Week 6
+[Internet Connectivity](https://johnoraw.gitbook.io/routing-practice/internet-connectivity)
+
+[Static Routes](https://johnoraw.gitbook.io/routing-practice/static-routes) 
+
+### Week 7
+[RIP](https://johnoraw.gitbook.io/routing-practice/rip)
+
+[OSPF](https://johnoraw.gitbook.io/routing-practice/ospf-1)
+
+### Week 8
+[BGP](https://johnoraw.gitbook.io/routing-practice/bgp-1)
+
+
+
 
